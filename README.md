@@ -8,6 +8,13 @@ The project was completed as part of a Python course exercise at Sharif Summer S
 
 The motion is described by the Lorentz force, with the electric field set to zero and a constant magnetic field directed along the z-axis.
 
+The equation of motion is:
+
+$$
+m\frac{d\mathbf{v}}{dt}
+= q(\mathbf{v}\times\mathbf{B})
+$$
+
 ## What This Project Covers
 
 - Circular motion when the initial velocity is perpendicular to the magnetic field
@@ -43,7 +50,3 @@ The model assumes a uniform, time-independent magnetic field and neglects the el
 
 Sharif Summer School — Session 1 Project  
 Sharif University of Technology, Physics Scientific Association
-$$
-m\frac{d\mathbf{v}}{dt}
-= q(\mathbf{v}\times\mathbf{B})
-$$
