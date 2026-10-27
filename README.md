@@ -43,3 +43,7 @@ The model assumes a uniform, time-independent magnetic field and neglects the el
 
 Sharif Summer School — Session 1 Project  
 Sharif University of Technology, Physics Scientific Association
+$$
+m\frac{d\mathbf{v}}{dt}
+= q(\mathbf{v}\times\mathbf{B})
+$$
