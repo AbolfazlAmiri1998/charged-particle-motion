@@ -14,12 +14,14 @@ $$
 \mathbf{B}=B\hat{z}
 $$
 
+
 The equation of motion is:
 
 $$
+\begin{aligned}
 m\frac{d\mathbf{v}}{dt}
-=
-q(\mathbf{v}\times\mathbf{B})
+&= q(\mathbf{v}\times\mathbf{B})
+\end{aligned}
 $$
 
 where \(m\) is the particle mass, \(q\) is its charge, \(\mathbf{v}\) is its velocity, and \(\mathbf{B}\) is the magnetic field.
