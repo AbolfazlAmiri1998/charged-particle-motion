@@ -24,7 +24,7 @@ m\frac{d\mathbf{v}}{dt}
 \end{aligned}
 $$
 
-where \(m\) is the particle mass, \(q\) is its charge, \(\mathbf{v}\) is its velocity, and \(\mathbf{B}\) is the magnetic field.
+where $m$ is the particle mass, $q$ is its charge, $\mathbf{v}$ is its velocity, and $\mathbf{B}$ is the magnetic field.
 
 ## 🎯 What This Project Covers
 
